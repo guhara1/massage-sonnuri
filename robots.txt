@@ -1,0 +1,26 @@
+User-agent: Yeti
+Allow: /
+
+User-agent: NaverBot
+Allow: /
+
+User-agent: Daumoa
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: bingbot
+Allow: /
+
+User-agent: *
+Disallow: /
+
+Sitemap: https://sonnuri.pages.dev/sitemap.xml
+Sitemap: https://sonnuri.pages.dev/sitemap-hub.xml
+Sitemap: https://sonnuri.pages.dev/sitemap-area.xml
+Sitemap: https://sonnuri.pages.dev/sitemap-topic.xml
+Sitemap: https://sonnuri.pages.dev/rss.xml
